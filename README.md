@@ -50,7 +50,7 @@ Your app will now be running at http://localhost:3000.
 ---
 
 ## 🌐 Live Demo
-You can view the live version of the portfolio by following this link:
+You can view the live version of the Voting-App by following this link:
 
 🔗 https://hanan-haseem.github.io/Voting-App/
 
