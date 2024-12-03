@@ -57,7 +57,8 @@ You can view the live version of the portfolio by following this link:
 ---
 
 ### 📸 Screenshot
-![image](https://github.com/user-attachments/assets/b72a0ab7-4120-473e-8576-2688810c5c2f)
+![image](https://github.com/user-attachments/assets/6e826321-0bdf-4e1e-9a1c-12f783d6453f)
+
 
 
 ---
